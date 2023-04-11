@@ -20,7 +20,7 @@ clouds receive and the computing of the optimal renewable infrastructures (as so
   
 
 ## News
-
+- **[Mar. 2023]** Presented my work in the [Green Days 2023 @ Lyon](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/). My slides are [here](http://perso.ens-lyon.fr/laurent.lefevre/greendayslyon2023/slides/GreenDays2023_Silva_Vasconcelos.pdf).
 - **[Jan. 2023]** Paper accepted at CCGrid 2023!
 
 {% include_relative _includes/publications.md %}
