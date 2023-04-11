@@ -4,20 +4,24 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am double degree Ph.D. student between Université Grenoble Alpes (France) and University of São Paulo (Brazil).
+
+My advisors are [Fanny Dufossé](https://graal.ens-lyon.fr/~fdufosse/) and [Daniel Cordeiro](http://www.each.usp.br/dc/).
+
+In my thesis I'm exploring approaches to reduce the environmental impact of cloud computing platforms, focusing on the scheduling of the workloads that the
+clouds receive and the computing of the optimal renewable infrastructures (as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint.
+
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Green computing** 
+- **Cloud computing** 
+- **Distributed systems** 
+  
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jan. 2023]** Paper accepted at CCGrid 2023!
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
