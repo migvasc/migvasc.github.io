@@ -4,12 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am double degree Ph.D. student between Université Grenoble Alpes (France) and University of São Paulo (Brazil).
+I am a double degree Ph.D. student between Université Grenoble Alpes (France :fr:) and the University of São Paulo (Brazil :brazil:), and I'm in the third year of the Ph.D.
 
 My advisors are [Fanny Dufossé](https://graal.ens-lyon.fr/~fdufosse/) and [Daniel Cordeiro](http://www.each.usp.br/dc/).
 
-In my thesis I'm exploring approaches to reduce the environmental impact of cloud computing platforms, focusing on the scheduling of the workloads that the
-clouds receive and the computing of the optimal renewable infrastructures (as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint.
+In my thesis, I'm exploring approaches to reduce the environmental impact of cloud computing platforms, focusing on the scheduling of the workloads that the
+clouds receive and the computing of the optimal renewable infrastructures (such as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint.
 
 
 ## Research Interests
