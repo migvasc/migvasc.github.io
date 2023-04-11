@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a double degree Ph.D. student between Université Grenoble Alpes (France :fr:) and the University of São Paulo (Brazil :brazil:), and I'm in the third year of the Ph.D.
+I am a double degree Ph.D. student between Université Grenoble Alpes (France) and the University of São Paulo (Brazil), and I'm in the third year of the Ph.D.
 
 My advisors are [Fanny Dufossé](https://graal.ens-lyon.fr/~fdufosse/) and [Daniel Cordeiro](http://www.each.usp.br/dc/).
 
