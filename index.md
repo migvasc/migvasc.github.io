@@ -17,10 +17,8 @@ clouds receive and the computing of the optimal renewable infrastructures (such 
 ## Research Interests
 
 - **Green computing** 
-- **Cloud-edge continuum**
-- **Smart citites** 
 - **Distributed systems** 
-  
+- **Cloud-edge continuum**  
 
 ## News
 - **[Jul. 2023]** Presented my work in the [COMPAS 23 @ Annecy](https://2023.compas-conference.fr/). Here you can find the [presentation material](https://gitlab.com/migvasc/slides-compas-2023).
