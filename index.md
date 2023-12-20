@@ -12,7 +12,7 @@ In my thesis, I'm exploring approaches to reduce the environmental impact of clo
 clouds receive and the computing of the optimal renewable infrastructures (such as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint.
 
 ## Important
-- My PhD defense is planned to **20/12/23**. The link for the videoconference will be published here soon. More details [here](https://adum.fr/script/detailSout.pl?mat=127502&site=edmstii&).
+- My PhD defense is planned to **20/12/23** at 14:00 (GMT+1). Here is the link for the transmission: https://www.youtube.com/live/s19UBCIjGsg?feature=shared . More details [here](https://adum.fr/script/detailSout.pl?mat=127502&site=edmstii&).
   
 ## Research Interests
 
