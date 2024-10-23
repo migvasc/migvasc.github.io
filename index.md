@@ -12,7 +12,7 @@ I did my Ph.D. as a double degree between the Université Grenoble Alpes (France
 My advisors were [Fanny Dufossé](https://graal.ens-lyon.fr/~fdufosse/) and [Daniel Cordeiro](http://www.each.usp.br/dc/).
 
 In my thesis, I explored approaches to reduce the environmental impact of cloud computing platforms, focusing on the scheduling of the workloads that the
-clouds receive and the computing of the optimal renewable infrastructures (such as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint. You can watch my defense [here](https://www.youtube.com/live/s19UBCIjGsg?feature=shared).
+clouds receive and the computing of the optimal renewable infrastructures (such as solar panels and batteries) for the data centers that host these platforms, since it is not trivial ﬁnding their ideal dimensions, given that they also present a signiﬁcant carbon footprint. You can watch my defense [here](https://www.youtube.com/live/s19UBCIjGsg?feature=shared) and the final version of the manuscript is [here](https://theses.hal.science/tel-04678116).
   
 ## Research Interests
 
