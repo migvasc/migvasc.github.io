@@ -22,7 +22,7 @@ clouds receive and the computing of the optimal renewable infrastructures (such 
 
 ## News
 - **[May. 2024]** Presented the work of my post-doc at workshop [New Challenges in Scheduling Theory](https://aussois2024.imag.fr/) at Aussois. [Here](https://aussois2024.imag.fr/abstracts-slides/SilvaVasconcelos.pdf) are the slides.
-- **[Mar. 2024]** Presented the work of my post-doc at the [Greendays 2924](https://perso.ens-lyon.fr/laurent.lefevre/greendaystoulouse2024/). [Here](https://avalon.ens-lyon.fr/~llefevre/greendays2024/GreenDays2024_Vasconcelos.pdf) are the slides.
+- **[Mar. 2024]** Presented the work of my post-doc at the [Greendays 2024](https://perso.ens-lyon.fr/laurent.lefevre/greendaystoulouse2024/). [Here](https://avalon.ens-lyon.fr/~llefevre/greendays2024/GreenDays2024_Vasconcelos.pdf) are the slides.
 - **[Mar. 2024]** Presented the work of my thesis at the [ROADEF 2024](https://roadef2024.sciencesconf.org/), [here](https://github.com/migvasc/aussois_24_smartcities_edge_computing_renewable_energy/blob/main/main.pdf) are the slides, and [here](https://github.com/migvasc/aussois_24_smartcities_edge_computing_renewable_energy) is the presentation material.
 - **[Dec. 2023]** P.h.D. defense planned to 20/12/23, and will be streamed [here](https://www.youtube.com/live/s19UBCIjGsg?feature=shared).
 - **[Jul. 2023]** Presented my work in the [COMPAS 23 @ Annecy](https://2023.compas-conference.fr/). Here you can find the [presentation material](https://gitlab.com/migvasc/slides-compas-2023).
