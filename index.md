@@ -21,6 +21,8 @@ clouds receive and the computing of the optimal renewable infrastructures (such 
 - **Cloud-edge continuum**
 
 ## News
+- **[Mar. 2025]** Participated in an article for [Revista Pesquisa FAPESP](https://revistapesquisa.fapesp.br/) (the magazine of São Paulo Research Foundation [FAPESP](https://fapesp.br/en)) to share the work of my thesis regarding strategies to make cloud data centers more sustainable. You can find it [here](https://revistapesquisa.fapesp.br/as-estrategias-para-tornar-os-data-centers-mais-sustentaveis/) in (portuguese).
+- **[Fev. 2025]** Presented my work in the ROADEF 2025 @ Champs-sur-Marne]. [Here](https://github.com/migvasc/roadef_25) you can find the presentation material.
 - **[May. 2024]** Presented the work of my post-doc at workshop [New Challenges in Scheduling Theory](https://aussois2024.imag.fr/) at Aussois. [Here](https://aussois2024.imag.fr/abstracts-slides/SilvaVasconcelos.pdf) are the slides.
 - **[Mar. 2024]** Presented the work of my post-doc at the [Greendays 2024](https://perso.ens-lyon.fr/laurent.lefevre/greendaystoulouse2024/). [Here](https://avalon.ens-lyon.fr/~llefevre/greendays2024/GreenDays2024_Vasconcelos.pdf) are the slides.
 - **[Mar. 2024]** Presented the work of my thesis at the [ROADEF 2024](https://roadef2024.sciencesconf.org/), [here](https://github.com/migvasc/aussois_24_smartcities_edge_computing_renewable_energy/blob/main/main.pdf) are the slides, and [here](https://github.com/migvasc/aussois_24_smartcities_edge_computing_renewable_energy) is the presentation material.
