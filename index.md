@@ -21,6 +21,7 @@ clouds receive and the computing of the optimal renewable infrastructures (such 
 - **Cloud-edge continuum**
 
 ## News
+- **[Nov. 2025]**  Participated in a research effort to develop a [plugin](https://github.com/simgrid/simgrid/pull/408) to simulate CO2 emissions in Simgrid. The work was done in collaboration with researchers from Univ. Grenoble Alpes and Univ. de São Paulo, [here](https://arxiv.org/pdf/2508.13693) is the article with more details.
 - **[Mar. 2025]** Participated in an article for [Revista Pesquisa FAPESP](https://revistapesquisa.fapesp.br/) (the magazine of São Paulo Research Foundation [FAPESP](https://fapesp.br/en)) to share the work of my thesis regarding strategies to make cloud data centers more sustainable. You can find it [here](https://revistapesquisa.fapesp.br/as-estrategias-para-tornar-os-data-centers-mais-sustentaveis/) in (portuguese).
 - **[Fev. 2025]** Presented my work in the ROADEF 2025 @ Champs-sur-Marne]. [Here](https://github.com/migvasc/roadef_25) you can find the presentation material.
 - **[May. 2024]** Presented the work of my post-doc at workshop [New Challenges in Scheduling Theory](https://aussois2024.imag.fr/) at Aussois. [Here](https://aussois2024.imag.fr/abstracts-slides/SilvaVasconcelos.pdf) are the slides.
